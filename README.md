@@ -1,2 +1,2 @@
 # machine-learning
-this is first  machine learning tutorail andproject
+this is first  machine learning tutorail and project
